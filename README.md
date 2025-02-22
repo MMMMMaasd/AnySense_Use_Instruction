@@ -23,3 +23,8 @@ In your settings, we provide the affordance of switching the streaming option be
 You can adjust the haptic feedback for all the buttons in AnySense, to improve your app and data collection experience
 
 You can project grid lines to your camera to help your recording process, we provide you the option to project either a 3x3 grid line or 5x5 grid line option
+
+### 5. Contact Us 
+If you have any questions about AnySense, please contact us at: 
+zb2253@nyu.edu
+raunaqbhirangi@nyu.edu
