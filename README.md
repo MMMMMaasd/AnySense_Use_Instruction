@@ -26,5 +26,5 @@ You can project grid lines to your camera to help your recording process, we pro
 
 ### 5. Contact Us 
 If you have any questions about AnySense, please contact us at: 
-zb2253@nyu.edu
+zb2253@nyu.edu,
 raunaqbhirangi@nyu.edu
